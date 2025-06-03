@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<settings xmlns="http://maven.apache.org/SETTINGS/1.2.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.2.0 https://maven.apache.org/xsd/settings-1.2.0.xsd">
+
+<!-- THe id must be same as the repoid used in mvn deploy command -->
+  <servers>
+    <server>
+	<id>codeartifact</id>
+	<username>aws</username>		
+	<password>eyJ2ZXIiOjEsImlzdSI6MTc0ODg5MjE4NiwiZW5jIjoiQTEyOEdDTSIsInRhZyI6IkJUZFRTb2c3Zi00OXlXazdqdTNmTEEiLCJleHAiOjE3NDg5MzUzODYsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiREJSVWhDNERZaHZjWWtWdCJ9.yh_DNR20OzZM2GzDmKVN0g.C6eb4ybZN75PGNTp.W8E0_WFJeOtiZOVFdQZI4bt5lXF5-PzRbqn2HCOpdt6PkcbK4WCNA4DNDallolUgoc8gxKluz7OVuhMPN0ibp15XMs1_LFNn1RQbX49gm_w3hwkTygDRdPX4T4UAr76IbEJKvzNCT_5Vx7KwRhFVeGpzxsS0-5ROsijzp9_eiFcynzMtNoTWyQXr_jW-hEyg4fvqx3cK71A5hpHlA6sBIM10SFSKjQ_bBEp1dWizd92YJUKPCTON9DO9FDgeLdgOQsYs4S1xIP3uk_-txd_OpLMV4JixGUTZ21EqC4g0lOPkLQXBSrlsxOP8Wn9jv7TGq1mGnojj8VnBOiuLse_n__L1EzUAygxSgtIsR4yGeSHLWWKBUq4b2kO3Gr3nFCw-v9RaRTmcdmnEzfGIpd5BXdpf4FBIi5DIdFjMP2w42hty-dWWtAn-e-AxnHgLsUIoiU7if1zPlsSPxDsuV-oLHqe4qo6QPSOEs0RNLFL1s4pmQBsgqJvYwDkFgfg6CXhJ_XcF7m1zXDIxU1iThPUmZMeLaFHK00EtykmZecNykRltx9XIxjy4gYKbQygDq38Ali8boO0z619Ci-p0Uq2hG6VtTAmQ3CwWDMdLc5eNepfALi9JiU1f-qySKqOixH3-pN0ZhUDP5L4YKOTdnZxwhF-1Ezrwhmqg3qnTevqgJ9QZfGn0y9z8ZbYEM73xxwF81GqegCLuLIim1CP05ELGWGnhW0_DaIca0FqcVeLm8r1aUy6-6d9O2K8tNg2elLgXfoYJnIIKfXjXBT_PwUnwdTPRYaQPQiscq6OIvj_O5WLuYkawVlOwdbotnn2maduJlPppZptNkBBo_54ul__TvPPHYjs9g2ZxtcQPdCc1I2NpaMhywTsHsceHDapbGGBL3903Bu5z5HNXxXcajKXah-O7HaTmM754IKZEsTS2NKqA7x8WMWrlQ_ekk2Fm2j40VcdPKVZzY7RyXT2eGlkqMw._z0W7uTHFfjAtLqvKBP3Aw</password>
+	</server>
+
+  </servers>
+
+
+
+</settings>
+
